@@ -1,0 +1,11 @@
+{
+  "name": "redux-optimistic-ui-addons",
+  "version": "0.0.1",
+  "description": "Some addons to get started with redux-optimistic-ui",
+  "main": "/lib/index.js",
+  "author": "Birk Johansson",
+  "license": "MIT",
+  "devDependencies": {
+    "redux-optimistic-ui": "^3.1.0"
+  }
+}
